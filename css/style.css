@@ -4,6 +4,7 @@ nav{
     height: 125px;
     color:  white;
     padding: 1px;
+    margin-bottom: 45px;
 }
 
 nav h1{
@@ -22,12 +23,22 @@ nav button{
 .bemutatkozas{
     border-top: #1CADEB 1px solid;
     border-bottom: #1CADEB 1px solid;
-    width: 1150px;
+    width: 1000px;
     display: flex;
-    padding: 25px;
+    margin-left: 100px;
 }
 
 #szoveg{
     color: #2A9FFF;
     font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+    margin-top: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.kepek img{
+    width: 100px;
+    height: 100px;
 }
